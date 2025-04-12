@@ -46,7 +46,7 @@ With the following conditions:
 
 ## 📈 Results
 
-### 🔻 Before Optimization (high loss ~0.02)
+### 🔻 Before Optimization (high loss ~0.02) also wrong true function not researched properly 
 <p align="center">
   <img src="wave1d.gif" width="600"/>
 </p>
