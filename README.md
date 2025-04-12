@@ -3,7 +3,7 @@
 This project demonstrates how to solve the classic 1D wave equation using **Physics-Informed Neural Networks (PINNs)** with [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl). Instead of relying on traditional numerical methods like finite differences, we train a neural network to approximate the solution directly.
 
 <p align="center">
-  <img src="media/final_solution." width="600"/>
+  <img src="wave2d.gif" width="600"/>
 </p>
 
 ## 🧩 Problem Formulation
