@@ -60,7 +60,7 @@ With the following conditions:
 
 ## 📄 Report
 
-Full derivations, experiment notes, and plots can be found in the [project report](report/1d_wave_pinn_report.pdf).
+Full derivations, experiment notes, and plots can be found in the [project report](report.pdf).
 
 ---
 
